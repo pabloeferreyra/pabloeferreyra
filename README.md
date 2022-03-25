@@ -13,3 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloeferreyra&repo=Turnero" />
   </p>
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=pabloeferreyra" />
+  </p>
