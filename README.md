@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-[![Pablo Ferreyra GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloeferreyra)](https://github.com/pabloeferreyra)
+  <h1 align="center">Stats</h1>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pabloeferreyra" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloeferreyra" />
+  </p>
+  
+  <h2>Most Recent Repo</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pabloeferreyra&repo=Turnero" />
+  </p>
 
-[![Turnero Card](https://github-readme-stats.vercel.app/api/pin/?username=pabloeferreyra&repo=Turnero)](https://github.com/pabloeferreyra/Turnero)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloeferreyra)](https://github.com/pabloeferreyra)
