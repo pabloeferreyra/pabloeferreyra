@@ -12,6 +12,7 @@ Web Net Core Developer
   <br/>
   <a href="https://twitter.com/intent/follow?screen_name=peferreyra_cs" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/peferreyra_cs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <br/>
   <a href="https://www.github.com/pabloeferreyra" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/pabloeferreyra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   
