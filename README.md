@@ -10,7 +10,8 @@ Web Net Core Developer
 *   🚀  I'm currently working on [Turnero](http://github.com/pabloeferreyra/Turnero)
 *   🧠  I'm learning Angular2<a href="https://www.twitter.com/peferreyra_cs" target="_blank" rel="noreferrer">
   <br/>
-  <img src="https://img.shields.io/twitter/follow/peferreyra_cs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=peferreyra_cs" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/peferreyra_cs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   <a href="https://www.github.com/pabloeferreyra" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/pabloeferreyra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   
