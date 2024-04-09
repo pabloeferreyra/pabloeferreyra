@@ -8,13 +8,13 @@ Web Net Core Developer
 *   🖥️  See my portfolio at [Here](http://pabloeferreyra.github.io)
 *   ✉️  You can contact me at [pabloeferreyra@gmail.com](mailto:pabloeferreyra@gmail.com)
 *   🚀  I'm currently working on [Turnero](http://github.com/pabloeferreyra/Turnero)
-*   🧠  I'm learning Angular2<a href="https://www.twitter.com/peferreyra_cs" target="_blank" rel="noreferrer">
+*   🧠  I'm learning Angular2<a href="https://www.x.com/peferreyra_cs" target="_blank" rel="noreferrer">
   <br/>
-  <a href="https://twitter.com/intent/follow?screen_name=peferreyra_cs" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/peferreyra_cs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <a href="https://x.com/intent/follow?screen_name=peferreyra_cs" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/peferreyra_cs?logo=x&style=flat-square" />
     <br/>
   <a href="https://www.github.com/pabloeferreyra" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/pabloeferreyra?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/pabloeferreyra?logo=github&style=flat-square" />
   
 ### Skills
   
